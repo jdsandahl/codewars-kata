@@ -1,5 +1,7 @@
 const monkeyCount = require("./monkeyCount");
+const removeChar = require("./removeChar");
 
 module.exports = {
-    monkeyCount
+  monkeyCount,
+  removeChar
 };
